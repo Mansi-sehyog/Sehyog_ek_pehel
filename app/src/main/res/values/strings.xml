@@ -1,0 +1,160 @@
+<resources>
+        <string name="app_name">Sehyog-ek Pehel</string>
+
+    <!--Bottom Navigation Menu-->
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_food">Food</string>
+    <string name="title_clothes">Clothes</string>
+    <string name="title_donate">Donate</string>
+
+    <!--Menu-->
+    <string name="title_Profile">Profile</string>
+    <string name="title_Volunteer_Info">Volunteer Info</string>
+    <string name="title_Rate_Us">Rate Us</string>
+    <string name="title_About_Us">About Us</string>
+    <string name="title_Share">Share</string>
+    <string name="title_Logout">Logout</string>
+
+    <!--Food Fragment-->
+    <string-array name="Quantity">
+        <item>select quantity</item>
+        <item>approx 10</item>
+        <item>approx 25</item>
+        <item>approx 30</item>
+        <item>approx 40</item>
+        <item>more than 50</item>
+    </string-array>
+
+    <string-array name="date">
+        <item>Date</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+
+    <string-array name="month">
+        <item>Month</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>Year</item>
+        <item>2020</item>
+    </string-array>
+
+    <!--Home Fragment-->
+
+    <!--Donate Fragment-->
+    <string name="textView_donate">Let\'s Donate</string>
+    <string name="editText_donate_hint">Enter amount</string>
+    <string name="Button_credit">CREDIT</string>
+    <string name="Button_debit">DEBIT</string>
+    <string name="button_pay">PAY</string>
+
+    <!--About Us Activity-->
+    <string name="About_us">
+            "SEHYOG: EK PEHEL" is our dream project. We get inspired from our real
+            life, through this project we just want to feed the hungry, help the people who
+            are not able to arrange things for themselves for fulfilling their basic needs.
+            The proposed system deals with overcoming the problems stated above.
+            that help the people by just updating the things which they have, which feed the
+            hungry tummies or give them something which help them by just sharing their location
+            and posting the material they have.
+            \n
+            \n
+            FINAL YEAR PROJECT \n \n
+            \t \t Designed and Developed by: \n
+            \t \t MUSKAN JAIN \n
+            \t \t MANSI
+        </string>
+
+    <!--Home Activity-->
+
+    <!--Main Activity-->
+
+    <!--Login Activity SignUp Activity-->
+    <string name="textView_Login">LOGIN</string>
+    <string name="editText_number_hint">Enter Mobile Number</string>
+    <string name="editText_otp_hint">Enter Verification Code</string>
+    <string name="Button_send_otp_text">SEND OTP</string>
+    <string name="Button_verify_text">verify</string>
+    <string name="textView_SignUp">LOGIN</string>
+
+
+    <!--Notification Activity-->
+
+    <!--Payment Activity-->
+    <string name="Button_pay_text">PAY</string>
+
+    <!--Profile Activity-->
+    <string name="editText_name_hint">Enter your Name</string>
+    <string name="editText_mobile_hint">Enter mobile Number</string>
+    <string name="editText_locality_hint">Enter Locality</string>
+    <string name="button_update_text">UPDATE</string>
+    <string name="textView_skip">>>></string>
+
+    <!--Rate Us Activity-->
+    <string name="textView_rating">Rating</string>
+    <string name="button_submit">Submit</string>
+
+    <!--Selected User Activity-->
+    <string name="textView_name">Name</string>
+    <string name="textView_number">Mobile Number</string>
+
+    <!--Splash Activity-->
+
+
+    <!--Volunteer Activity-->
+    //Contact Info
+    <string name="muskan_number">9760691452</string>
+    <string name="mansi_number"></string>
+
+    <!--Row Users.xml-->
+    <string name="textView_prefix">T</string>
+    <string name="textView_username">username</string>
+    <string name="locality">Locality</string>
+    <string name="number">Number</string>
+    <string name="name">Name</string>
+    <string name="profile">Profile</string>
+
+</resources>

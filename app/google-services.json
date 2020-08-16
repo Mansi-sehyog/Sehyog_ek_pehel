@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1084256538403",
+    "firebase_url": "https://sehyog-ek-pehel-2f43f.firebaseio.com",
+    "project_id": "sehyog-ek-pehel-2f43f",
+    "storage_bucket": "sehyog-ek-pehel-2f43f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084256538403:android:2caf74894d186750700696",
+        "android_client_info": {
+          "package_name": "com.muskan.sehyog_ekpehel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084256538403-70hiandrtf4nrhcsmbv2juma2ivks0gg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muskan.sehyog_ekpehel",
+            "certificate_hash": "8e6bc8032fad6a0a11498b04d2398961ba57e312"
+          }
+        },
+        {
+          "client_id": "1084256538403-5jkvd5mgink6gka9f362o0quf2aipm76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnbhqHfrWk8eSleoxMl7lazcFd7VGcyS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084256538403-5jkvd5mgink6gka9f362o0quf2aipm76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

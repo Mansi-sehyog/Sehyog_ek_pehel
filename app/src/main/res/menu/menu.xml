@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/menu_profile"
+        android:icon="@drawable/profile"
+        android:title="@string/title_Profile"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_volunteer"
+        android:icon="@drawable/volunteer"
+        android:title="@string/title_Volunteer_Info"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/menu_rate_us"
+        android:icon="@drawable/rating"
+        android:title="@string/title_Rate_Us"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_about_us"
+        android:icon="@drawable/about_us"
+        android:title="@string/title_About_Us"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_feeds"
+        android:icon="@drawable/gallery"
+        android:title="images"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/menu_share"
+        android:title="@string/title_Share"
+        android:icon="@drawable/ic_share"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_logout"
+        android:icon="@drawable/sign_out"
+        android:title="@string/title_Logout"
+        app:showAsAction="never" />
+
+</menu>

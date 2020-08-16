@@ -1,0 +1,17 @@
+<resources>
+
+    <!--Button dimensions-->
+    <dimen name="Button_width">200dp</dimen>
+    <dimen name="Button_Text">20dp</dimen>
+
+    <!--TextView dimensions-->
+    <dimen name="TextView">40dp</dimen>
+    <dimen name="TextView_about_us">18dp</dimen>
+    <dimen name="TextView_small">25dp</dimen>
+
+    <!--EditText dimensions-->
+    <dimen name="EditText_width"></dimen>
+    <dimen name="EditText_size">20sp</dimen>
+
+
+</resources>
